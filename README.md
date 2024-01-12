@@ -92,7 +92,7 @@ Recently, U-shaped neural networks have gained widespread application in remote 
 
 Download our model weights on Baidu cloud disk: https://pan.baidu.com/s/1S8LgdiHn09RxRNEh7-8-9Q?pwd=zkdy   
 
-Download our test datasets on google cloud disk: https://pan.baidu.com/s/1HK1oy4SjZ99N-Dh-8_s0hA?pwd=lzms
+Download our test datasets on google cloud disk: https://drive.google.com/drive/folders/1SRPc3RPdXZQofQn4lwhQDNHTQeNRJWfl?usp=drive_link
 
 ### Train
 
