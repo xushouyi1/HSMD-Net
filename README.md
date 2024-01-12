@@ -15,7 +15,7 @@ Recently, U-shaped neural networks have gained widespread application in remote 
   <a href="https://github.com/xushouyi1/HSMR-Net/">
     <img src="images/Framework.png" alt="Logo" width="1000" height="500">
   </a>
-  <h3 align="center" style="font-size: 24px:">HSMR-Net</h3>
+  <h3 align="center">Hierarchical Slice Information Interaction and Multi-layer Decoding Collaborative Reconstruction dehazing network</h3>
   <p align="center">
   <a href="https://github.com/xushouyi1/HSMR-Net/">
     <img src="images/HIISM.png" alt="Logo" width="1000" height="640">
