@@ -28,3 +28,17 @@ Recently, U-shaped neural networks have gained widespread application in remote 
   </a>
   </p>
   <h3 align="center">Multi-layer Decoding Collaborative Reconstruction module</h3>
+  <p align="center">
+    Partial Siamese Networks with Multiscale Bi-codec Information Fusion Module for Remote Sensing Single Image Dehazing
+    <br />
+    <a href="https://github.com/xushouyi1/HSMR-Net/"><strong>Exploring the documentation for PSMB-Net »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/xushouyi1/HSMR-Net/">Check Demo</a>
+    ·
+    <a href="https://github.com/xushouyi1/HSMR-Net/">Report Bug</a>
+    ·
+    <a href="https://github.com/xushouyi1/HSMR-Net/">Pull Request</a>
+  </p>
+
+</p>
