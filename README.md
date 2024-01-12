@@ -113,6 +113,7 @@ python test.py --gpus 0 --type 5
 ```sh
 git clone https://github.com/xushouyi1/HSMR-Net.git
 ```
+
 ### Qualitative Results
 
 #### Results on Statehaze1k-Thin remote sensing Dehazing Challenge testing images
