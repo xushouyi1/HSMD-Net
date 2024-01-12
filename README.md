@@ -108,3 +108,30 @@ python test.py --gpus 0 --type 5
 ```sh
 git clone https://github.com/thislzm/PSMB-Net.git
 ```
+### Qualitative Results
+
+#### Results on Statehaze1k-Thin remote sensing Dehazing Challenge testing images
+<div style="text-align: center">
+<img alt="" src="/images/Thin_Fog.png" style="display: inline-block;" />
+</div>
+
+#### Results on Statehaze1k-Moderate remote sensing Dehazing Challenge testing images
+<div style="text-align: center">
+<img alt="" src="/images/Moderate_Fog.png" style="display: inline-block;" />
+</div>
+
+#### Results on Statehaze1k-Thick remote sensing Dehazing Challenge testing images
+<div style="text-align: center">
+<img alt="" src="/images/Thick_Fog.png" style="display: inline-block;" />
+</div>
+
+#### Results on HRSD-LHID remote sensing Dehazing Challenge testing images
+<div style="text-align: center">
+<img alt="" src="/images/LHID.png" style="display: inline-block;" />
+</div>
+
+#### Results on HRSD-DHID remote sensing Dehazing Challenge testing images
+<div style="text-align: center">
+<img alt="" src="/images/DHID.png" style="display: inline-block;" />
+</div>
+
