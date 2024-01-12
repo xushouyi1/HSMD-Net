@@ -109,6 +109,7 @@ python train.py -train_batch_size 4 --gpus 0 --type 5
  ```shell
 python test.py --gpus 0 --type 5
 
+### Clone the repo
 ```sh
 git clone https://github.com/xushouyi1/HSMR-Net.git
 ```
