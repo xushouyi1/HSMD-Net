@@ -98,6 +98,7 @@ Download our test datasets on geogle cloud disk: https://pan.baidu.com/s/1HK1oy4
 Download our model weights on Baidu cloud disk: https://pan.baidu.com/s/1dePHGG4MYvyuLW5rZ0D8VA?pwd=lzms
 
 Download our test datasets on Baidu cloud disk: https://pan.baidu.com/s/1HK1oy4SjZ99N-Dh-8_s0hA?pwd=lzms
+
 ### Train
 
 ```shell
@@ -108,10 +109,12 @@ python train.py -train_batch_size 4 --gpus 0 --type 5
 
  ```shell
 python test.py --gpus 0 --type 5
+ ```
 
 ### Clone the repo
+
 ```sh
-git clone https://github.com/xushouyi1/HSMR-Net.git
+git clone https://github.com/thislzm/PSMB-Net.git
 ```
 
 ### Qualitative Results
