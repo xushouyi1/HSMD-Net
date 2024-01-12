@@ -55,3 +55,10 @@ Recently, U-shaped neural networks have gained widespread application in remote 
   - [Results on Statehaze1k-Thick remote sensing Dehazing Challenge testing images:](#results-on-statehaze1k-thick-remote-sensing-dehazing-challenge-testing-images)
   - [Copyright](#copyright)
 - [Thanks](#thanks)
+
+### Dependences
+
+1. Pytorch 1.8.0
+2. Python 3.7.1
+3. CUDA 11.7
+4. Ubuntu 18.04
