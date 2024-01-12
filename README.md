@@ -62,3 +62,47 @@ Recently, U-shaped neural networks have gained widespread application in remote 
 2. Python 3.7.1
 3. CUDA 11.7
 4. Ubuntu 18.04
+### Filetree
+
+```
+├── README.md
+├── /PSMB-Net/
+|  ├── train.py
+|  ├── test.py
+|  ├── Model.py
+|  ├── Model_util.py
+|  ├── perceptual.py
+|  ├── train_dataset.py
+|  ├── test_dataset.py
+|  ├── utils_test.py
+|  ├── make.py
+│  ├── /pytorch_msssim/
+│  │  ├── __init__.py
+│  ├── /datasets_train/
+│  │  ├── /hazy/
+│  │  ├── /clean/
+│  ├── /datasets_test/
+│  │  ├── /hazy/
+│  │  ├── /clean/
+│  ├── /output_result/
+├── LICENSE.txt
+└── /images/
+```
+### Pretrained Weights and Dataset
+
+Download our model weights on Baidu cloud disk: https://pan.baidu.com/s/1dePHGG4MYvyuLW5rZ0D8VA?pwd=lzms
+
+Download our test datasets on Baidu cloud disk: https://pan.baidu.com/s/1HK1oy4SjZ99N-Dh-8_s0hA?pwd=lzms
+### Train
+
+```shell
+python train.py -train_batch_size 4 --gpus 0 --type 5
+```
+
+### Test
+
+ ```shell
+python test.py --gpus 0 --type 5
+```sh
+git clone https://github.com/thislzm/PSMB-Net.git
+```
