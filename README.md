@@ -114,7 +114,7 @@ python test.py --gpus 0 --type 5
 ### Clone the repo
 
 ```sh
-git clone https://github.com/thislzm/PSMB-Net.git
+git clone https://github.com/xushouyi1/HSMR-Net.git
 ```
 
 ### Qualitative Results
