@@ -68,7 +68,7 @@ Recently, U-shaped neural networks have gained widespread application in remote 
 
 ```
 ├── README.md
-├── /PSMB-Net/
+├── /HSRM-Net/
 |  ├── train.py
 |  ├── test.py
 |  ├── Model.py
@@ -87,7 +87,6 @@ Recently, U-shaped neural networks have gained widespread application in remote 
 │  │  ├── /hazy/
 │  │  ├── /clean/
 │  ├── /output_result/
-├── LICENSE.txt
 └── /images/
 ```
 ### Pretrained Weights and Dataset
