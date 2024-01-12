@@ -68,7 +68,7 @@ Recently, U-shaped neural networks have gained widespread application in remote 
 
 ```
 ├── README.md
-├── /HSRM-Net/
+├── /HSMR-Net/
 |  ├── train.py
 |  ├── test.py
 |  ├── Model.py
