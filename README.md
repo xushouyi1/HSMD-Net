@@ -1,4 +1,4 @@
-# RSICR-Net
+# HSMR-Net
 Recently, U-shaped neural networks have gained widespread application in remote sensing image dehazing
 and achieved promising performance. However, most of the existing U-shaped dehazing networks neglect the global and local information interaction across layers during the encoding phase, which leads
 to incomplete utilization of the extracted features for image restoration. Moreover, in the process of
