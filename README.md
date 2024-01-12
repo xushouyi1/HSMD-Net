@@ -90,7 +90,7 @@ Recently, U-shaped neural networks have gained widespread application in remote 
 ```
 ### Pretrained Weights and Dataset
 
-Download our model weights on Baidu cloud disk: https://pan.baidu.com/s/1S8LgdiHn09RxRNEh7-8-9Q?pwd=zkdy   
+Download our model weights on Baidu cloud disk: https://pan.baidu.com/s/15gOQ9qADAtDfgY9dkIvOxA?pwd=39ni 
 
 Download our test datasets on google cloud disk: https://drive.google.com/drive/folders/1SRPc3RPdXZQofQn4lwhQDNHTQeNRJWfl?usp=drive_link
 
