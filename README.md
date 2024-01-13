@@ -15,7 +15,8 @@
   <a href="https://github.com/xushouyi1/HSMD-Net/">
     <img src="images/Framework.png" alt="Logo" width="1000" height="450">
   </a>
-  <h3 align="left">Hierarchical Slice Information Interaction and Multi-layer Decoding Collaborative Reconstruction dehazing network</h3>
+  <h3 align="left">Hierarchical Slice Interaction and Multi-layer Cooperative Decoding
+Networks for Remote Sensing Image dehazing</h3>
   <p align="center">
   <a href="https://github.com/xushouyi1/HSMD-Net/">
     <img src="images/HIISM.png" alt="Logo" width="1000" height="500">
@@ -27,7 +28,7 @@
     <img src="images/MDCRM.png" alt="Logo" width="1200" height="250">
   </a>
   </p>
-  <h3 align="center">Multi-layer Decoding Collaborative Reconstruction module</h3>
+  <h3 align="center">Multi-layer Cooperative Decoding Reconstruction module</h3>
   <p align="center">
     <br />
     <a href="https://github.com/xushouyi1/HSMD-Net/"><strong>Exploring the documentation for HSMR-Net »</strong></a>
@@ -67,7 +68,7 @@
 
 ```
 ├── README.md
-├── /HSMR-Net/
+├── /HSMD-Net/
 |  ├── train.py
 |  ├── test.py
 |  ├── Model.py
