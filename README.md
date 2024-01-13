@@ -30,14 +30,14 @@
   <h3 align="center">Multi-layer Decoding Collaborative Reconstruction module</h3>
   <p align="center">
     <br />
-    <a href="https://github.com/xushouyi1/HSMR-Net/"><strong>Exploring the documentation for HSMR-Net »</strong></a>
+    <a href="https://github.com/xushouyi1/HSMD-Net/"><strong>Exploring the documentation for HSMR-Net »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/xushouyi1/HSMR-Net/">Check Demo</a>
+    <a href="https://github.com/xushouyi1/HSMD-Net/">Check Demo</a>
     ·
-    <a href="https://github.com/xushouyi1/HSMR-Net/">Report Bug</a>
+    <a href="https://github.com/xushouyi1/HSMD-Net/">Report Bug</a>
     ·
-    <a href="https://github.com/xushouyi1/HSMR-Net/">Pull Request</a>
+    <a href="https://github.com/xushouyi1/HSMD-Net/">Pull Request</a>
   </p>
 
 </p>
@@ -109,7 +109,7 @@ python test.py --gpus 0 --type 5
 ### Clone the repo
 
 ```sh
-git clone https://github.com/xushouyi1/HSMR-Net.git
+git clone https://github.com/xushouyi1/HSMD-Net.git
 ```
 
 ### Qualitative Results
