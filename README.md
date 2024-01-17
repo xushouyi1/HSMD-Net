@@ -94,7 +94,7 @@ Networks for Remote Sensing Image dehazing</h3>
 
 Download our model weights on Baidu cloud disk: https://pan.baidu.com/s/15gOQ9qADAtDfgY9dkIvOxA?pwd=39ni 
 
-Download our test datasets on google cloud disk: https://drive.google.com/drive/folders/1SRPc3RPdXZQofQn4lwhQDNHTQeNRJWfl?usp=drive_link
+Download our test datasets on google cloud disk: https://drive.google.com/drive/folders/1SRPc3RPdXZQofQn4lwhQDNHTQeNRJWfl?usp=sharing
 
 ### Train
 
