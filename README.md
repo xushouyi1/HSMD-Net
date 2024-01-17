@@ -87,6 +87,7 @@ Networks for Remote Sensing Image dehazing</h3>
 │  │  ├── /hazy/
 │  │  ├── /clean/
 │  ├── /output_result/
+|  |  ├── ../pkl
 └── /images/
 ```
 ### Pretrained Weights and Dataset
@@ -98,13 +99,13 @@ Download our test datasets on google cloud disk: https://drive.google.com/drive/
 ### Train
 
 ```shell
-python train.py -train_batch_size 4 --gpus 0 --type 5
+python train.py -train_batch_size 4 --gpus 0 --type 0
 ```
 
 ### Test
 
  ```shell
-python test.py --gpus 0 --type 5
+python test.py --gpus 0 --type 0
  ```
 
 ### Clone the repo
