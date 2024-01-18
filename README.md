@@ -92,7 +92,7 @@ Networks for Remote Sensing Image dehazing</h3>
 ```
 ### Pretrained Weights and Dataset
 
-Download our model weights on Baidu cloud disk: 链接：https://pan.baidu.com/s/1q2ZoDdBFYHrQqxWfpGit4Q?pwd=cgrz 
+Download our model weights on Baidu cloud disk: https://pan.baidu.com/s/1q2ZoDdBFYHrQqxWfpGit4Q?pwd=cgrz 
  
 Download our test datasets on google cloud disk: https://drive.google.com/drive/folders/1SRPc3RPdXZQofQn4lwhQDNHTQeNRJWfl?usp=sharing
 
