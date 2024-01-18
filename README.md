@@ -87,7 +87,7 @@ Networks for Remote Sensing Image dehazing</h3>
 │  │  ├── /hazy/
 │  │  ├── /clean/
 │  ├── /output_result/
-|  |  ├── ../pkl
+|  |  ├── *****.pkl
 └── /images/
 ```
 ### Pretrained Weights and Dataset
